@@ -1,16 +1,16 @@
-BOT_TOKEN = '6694760398:AAE5lNM_wa3vyM3yOweGdGqjJwWKHSuYpqs'
+BOT_TOKEN = ''
 
-ADMIN_ID = 708424044
+ADMIN_ID = 
 
 #  Ссылка с заданиями
-TASK_LINK = 'google.com'
+TASK_LINK = 'https://github.com/renascape/nyuta-bot'
 
 #  Надпись на кнопке-ссылке с заданиями(название группы, хз)
-TASK_TEXT = 'testtest'
+TASK_TEXT = 'GitHub'
 
 #  Ссылка на методички
-HELP_LINK = 'ya.ru'
+HELP_LINK = 'https://github.com/renascape/nyuta-bot'
 
 #  Надпись на кнопке-ссылке с методичками
-HELP_TEXT = 'ИПО-20.24'
+HELP_TEXT = 'GitHub'
 
