@@ -1,1 +1,1 @@
-# nyuta-bot
+# Nyuta bot
